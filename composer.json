@@ -3,11 +3,14 @@
     "description": "Replaces 'r' by 'l' in the provided string",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.0", 
     "autoload": {
         "psr-4": {
             "Andreterceiro\\Cebolinizador\\": "src/"
-        }
+        },
+        "files": [
+            "src/RandomPassword /Password.php"            
+        ]
     },
     "authors": [
         {
@@ -15,5 +18,6 @@
             "email": "andre@terceiro.com.br"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
