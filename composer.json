@@ -9,7 +9,7 @@
             "Andreterceiro\\Cebolinizador\\": "src/"
         },
         "files": [
-            "src/RandomPassword /Password.php"            
+            "src/cebolinizador/Cebolinizador.php"            
         ]
     },
     "authors": [
