@@ -3,6 +3,7 @@
     "description": "Replaces 'r' by 'l' in the provided string",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Andreterceiro\\Cebolinizador\\": "src/"
